@@ -8,7 +8,9 @@ A curated list of packages, tools, and other software with zero third-party depe
 
 | Project                                                        | Description                              | Language   | License       |
 | -------------------------------------------------------------- | ---------------------------------------- | ---------- | ------------- |
+| [autocomp.js](https://github.com/knadh/autocomp.js)            | Autocomplete library                     | JavaScript | MIT           |
 | [btree](https://github.com/tidwall/btree)                      | B-tree                                   | Go         | MIT           |
+| [ccache](https://github.com/karlseguin/ccache)                 | LRU Cache for high concurrency           | Go         | MIT           |
 | [codapi](https://github.com/nalgeon/codapi)                    | Code sandbox engine                      | Go         | Apache-2.0    |
 | [env](https://github.com/caarlos0/env)                         | Parse environment variables into structs | Go         | MIT           |
 | [faker](https://github.com/jaswdr/faker)                       | Fake data generator                      | Go         | MIT           |
@@ -22,6 +24,7 @@ A curated list of packages, tools, and other software with zero third-party depe
 | [microdot](https://github.com/miguelgrinberg/microdot)         | Web framework                            | Python     | MIT           |
 | [nanoserde](https://github.com/not-fl3/nanoserde)              | JSON/TOML/RON serialization              | Rust       | MIT           |
 | [netjail](https://github.com/stealthrocket/netjail)            | Network access control for HTTP/TCP      | Go         | MIT           |
+| [notes](https://github.com/nickjj/notes)                       | Text notes management tool               | Shell      | MIT           |
 | [parson](https://github.com/kgabis/parson)                     | JSON library                             | C          | MIT           |
 | [pico-args](https://github.com/RazrFalcon/pico-args)           | CLI arguments parser                     | Rust       | MIT           |
 | [quickjs](https://github.com/bellard/quickjs)                  | Javascript engine                        | C          | MIT           |
