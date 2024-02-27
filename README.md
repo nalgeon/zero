@@ -6,22 +6,32 @@ A curated list of packages, tools, and other software with zero third-party depe
 
 ## Members
 
-| Project                                              | Description                              | Language | License       |
-| ---------------------------------------------------- | ---------------------------------------- | -------- | ------------- |
-| [btree](https://github.com/tidwall/btree)            | B-tree                                   | Go       | MIT           |
-| [codapi](https://github.com/nalgeon/codapi)          | Code sandbox engine                      | Go       | Apache-2.0    |
-| [env](https://github.com/caarlos0/env)               | Parse environment variables into structs | Go       | MIT           |
-| [faker](https://github.com/jaswdr/faker)             | Fake data generator                      | Go       | MIT           |
-| [go-quartz](https://github.com/reugn/go-quartz)      | Scheduling library                       | Go       | MIT           |
-| [hashmap.c](https://github.com/tidwall/hashmap.c)    | Hash map                                 | C        | MIT           |
-| [httpbin](https://github.com/mccutchen/go-httpbin)   | HTTP request & response testing service  | Go       | MIT           |
-| [linenoise](https://github.com/antirez/linenoise)    | Line editing (readline alternative)      | C        | BSD-2-Clause  |
-| [pico-args](https://github.com/RazrFalcon/pico-args) | CLI arguments parser                     | Rust     | MIT           |
-| [sds](https://github.com/antirez/sds)                | Dynamic strings library                  | C        | BSD-2-Clause  |
-| [seahorse](https://github.com/ksk001100/seahorse)    | CLI framework                            | Rust     | MIT           |
-| [sqlite](https://github.com/sqlite/sqlite)           | Database engine                          | C        | Public domain |
-| [sqlpkg](https://github.com/nalgeon/sqlpkg-cli)      | SQLite package manager                   | Go       | MIT           |
-| [wazero](https://github.com/tetratelabs/wazero)      | WebAssembly runtime                      | Go       | Apache-2.0    |
+| Project                                                        | Description                              | Language   | License       |
+| -------------------------------------------------------------- | ---------------------------------------- | ---------- | ------------- |
+| [btree](https://github.com/tidwall/btree)                      | B-tree                                   | Go         | MIT           |
+| [codapi](https://github.com/nalgeon/codapi)                    | Code sandbox engine                      | Go         | Apache-2.0    |
+| [env](https://github.com/caarlos0/env)                         | Parse environment variables into structs | Go         | MIT           |
+| [faker](https://github.com/jaswdr/faker)                       | Fake data generator                      | Go         | MIT           |
+| [go-quartz](https://github.com/reugn/go-quartz)                | Scheduling library                       | Go         | MIT           |
+| [hamt](https://github.com/mkirchner/hamt)                      | Hash array-mapped trie                   | C          | MIT           |
+| [hashmap.c](https://github.com/tidwall/hashmap.c)              | Hash map                                 | C          | MIT           |
+| [htmz](https://github.com/Kalabasa/htmz)                       | HTML microframework                      | JavaScript | MIT           |
+| [httpbin](https://github.com/mccutchen/go-httpbin)             | HTTP request & response testing service  | Go         | MIT           |
+| [linenoise](https://github.com/antirez/linenoise)              | Line editing (readline alternative)      | C          | BSD-2-Clause  |
+| [microdot](https://github.com/miguelgrinberg/microdot)         | Web framework                            | Python     | MIT           |
+| [netjail](https://github.com/stealthrocket/netjail)            | Network access control for HTTP/TCP      | Go         | MIT           |
+| [parson](https://github.com/kgabis/parson)                     | JSON library                             | C          | MIT           |
+| [pico-args](https://github.com/RazrFalcon/pico-args)           | CLI arguments parser                     | Rust       | MIT           |
+| [quickjs](https://github.com/bellard/quickjs)                  | Javascript engine                        | C          | MIT           |
+| [sc](https://github.com/tezc/sc)                               | Common libraries and data structures     | C          | BSD-3-Clause  |
+| [sds](https://github.com/antirez/sds)                          | Dynamic strings library                  | C          | BSD-2-Clause  |
+| [seahorse](https://github.com/ksk001100/seahorse)              | CLI framework                            | Rust       | MIT           |
+| [simple-graph](https://github.com/dpapathanasiou/simple-graph) | Graph database in SQLite                 | SQL        | MIT           |
+| [sqlite](https://github.com/sqlite/sqlite)                     | Database engine                          | C          | Public domain |
+| [sqlpkg](https://github.com/nalgeon/sqlpkg-cli)                | SQLite package manager                   | Go         | MIT           |
+| [utf8.h](https://github.com/sheredom/utf8.h)                   | UTF-8 string functions                   | C          | Unlicense     |
+| [wazero](https://github.com/tetratelabs/wazero)                | WebAssembly runtime                      | Go         | Apache-2.0    |
+| [yaegi](https://github.com/traefik/yaegi)                      | Go Interpreter                           | Go         | Apache-2.0    |
 
 ## Frequently asked questions
 
