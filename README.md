@@ -9,13 +9,17 @@ A curated list of packages, tools, and other software with zero third-party depe
 | Project                                                        | Description                              | Language   | License       |
 | -------------------------------------------------------------- | ---------------------------------------- | ---------- | ------------- |
 | [autocomp.js](https://github.com/knadh/autocomp.js)            | Autocomplete library                     | JavaScript | MIT           |
+| [btree.c](https://github.com/tidwall/btree.c)                  | B-tree                                   | C          | MIT           |
 | [btree](https://github.com/tidwall/btree)                      | B-tree                                   | Go         | MIT           |
 | [ccache](https://github.com/karlseguin/ccache)                 | LRU Cache for high concurrency           | Go         | MIT           |
+| [chi](https://github.com/go-chi/chi)                           | HTTP router                              | Go         | MIT           |
 | [codapi](https://github.com/nalgeon/codapi)                    | Code sandbox engine                      | Go         | Apache-2.0    |
+| [cors](https://github.com/rs/cors)                             | CORS request handler                     | Go         | MIT           |
 | [env](https://github.com/caarlos0/env)                         | Parse environment variables into structs | Go         | MIT           |
 | [faker](https://github.com/jaswdr/faker)                       | Fake data generator                      | Go         | MIT           |
 | [gc](https://github.com/mkirchner/gc)                          | Mark-and-sweep garbage collector         | C          | MIT           |
 | [go-quartz](https://github.com/reugn/go-quartz)                | Scheduling library                       | Go         | MIT           |
+| [gofakeit](https://github.com/brianvoe/gofakeit)               | Fake data generator                      | Go         | MIT           |
 | [hamt](https://github.com/mkirchner/hamt)                      | Hash array-mapped trie                   | C          | MIT           |
 | [hashmap.c](https://github.com/tidwall/hashmap.c)              | Hash map                                 | C          | MIT           |
 | [htmz](https://github.com/Kalabasa/htmz)                       | HTML microframework                      | JavaScript | MIT           |
@@ -36,8 +40,11 @@ A curated list of packages, tools, and other software with zero third-party depe
 | [sqlpkg](https://github.com/nalgeon/sqlpkg-cli)                | SQLite package manager                   | Go         | MIT           |
 | [steganography](https://github.com/auyer/steganography)        | LSB steganography on images              | Go         | MIT           |
 | [tagger](https://github.com/jcubic/tagger)                     | Tag editor                               | JavaScript | MIT           |
+| [toml](https://github.com/BurntSushi/toml)                     | TOML serialization                       | Go         | MIT           |
 | [utf8.h](https://github.com/sheredom/utf8.h)                   | UTF-8 string functions                   | C          | Unlicense     |
+| [uuid](https://github.com/google/uuid)                         | Generate and inspect UUIDs               | Go         | BSD-3-Clause  |
 | [wazero](https://github.com/tetratelabs/wazero)                | WebAssembly runtime                      | Go         | Apache-2.0    |
+| [xid](https://github.com/rs/xid)                               | Globally unique ID generator             | Go         | MIT           |
 | [yaegi](https://github.com/traefik/yaegi)                      | Go interpreter                           | Go         | Apache-2.0    |
 
 ## Frequently asked questions
