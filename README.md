@@ -12,6 +12,7 @@ A curated list of packages, tools, and other software with zero third-party depe
 | [codapi](https://github.com/nalgeon/codapi)                    | Code sandbox engine                      | Go         | Apache-2.0    |
 | [env](https://github.com/caarlos0/env)                         | Parse environment variables into structs | Go         | MIT           |
 | [faker](https://github.com/jaswdr/faker)                       | Fake data generator                      | Go         | MIT           |
+| [gc](https://github.com/mkirchner/gc)                          | Mark-and-sweep garbage collector         | C          | MIT           |
 | [go-quartz](https://github.com/reugn/go-quartz)                | Scheduling library                       | Go         | MIT           |
 | [hamt](https://github.com/mkirchner/hamt)                      | Hash array-mapped trie                   | C          | MIT           |
 | [hashmap.c](https://github.com/tidwall/hashmap.c)              | Hash map                                 | C          | MIT           |
@@ -19,6 +20,7 @@ A curated list of packages, tools, and other software with zero third-party depe
 | [httpbin](https://github.com/mccutchen/go-httpbin)             | HTTP request & response testing service  | Go         | MIT           |
 | [linenoise](https://github.com/antirez/linenoise)              | Line editing (readline alternative)      | C          | BSD-2-Clause  |
 | [microdot](https://github.com/miguelgrinberg/microdot)         | Web framework                            | Python     | MIT           |
+| [nanoserde](https://github.com/not-fl3/nanoserde)              | JSON/TOML/RON serialization              | Rust       | MIT           |
 | [netjail](https://github.com/stealthrocket/netjail)            | Network access control for HTTP/TCP      | Go         | MIT           |
 | [parson](https://github.com/kgabis/parson)                     | JSON library                             | C          | MIT           |
 | [pico-args](https://github.com/RazrFalcon/pico-args)           | CLI arguments parser                     | Rust       | MIT           |
@@ -29,9 +31,11 @@ A curated list of packages, tools, and other software with zero third-party depe
 | [simple-graph](https://github.com/dpapathanasiou/simple-graph) | Graph database in SQLite                 | SQL        | MIT           |
 | [sqlite](https://github.com/sqlite/sqlite)                     | Database engine                          | C          | Public domain |
 | [sqlpkg](https://github.com/nalgeon/sqlpkg-cli)                | SQLite package manager                   | Go         | MIT           |
+| [steganography](https://github.com/auyer/steganography)        | LSB steganography on images              | Go         | MIT           |
+| [tagger](https://github.com/jcubic/tagger)                     | Tag editor                               | JavaScript | MIT           |
 | [utf8.h](https://github.com/sheredom/utf8.h)                   | UTF-8 string functions                   | C          | Unlicense     |
 | [wazero](https://github.com/tetratelabs/wazero)                | WebAssembly runtime                      | Go         | Apache-2.0    |
-| [yaegi](https://github.com/traefik/yaegi)                      | Go Interpreter                           | Go         | Apache-2.0    |
+| [yaegi](https://github.com/traefik/yaegi)                      | Go interpreter                           | Go         | Apache-2.0    |
 
 ## Frequently asked questions
 
