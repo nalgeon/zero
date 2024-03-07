@@ -8,6 +8,7 @@ A curated list of packages, tools, and other software with zero third-party depe
 
 | Project                                                        | Description                              | Language   | License       |
 | -------------------------------------------------------------- | ---------------------------------------- | ---------- | ------------- |
+| [asciigraph](https://github.com/guptarohit/asciigraph)         | ASCII line graphs in command line apps   | Go         | BSD-3-Clause  |
 | [autocomp.js](https://github.com/knadh/autocomp.js)            | Autocomplete library                     | JavaScript | MIT           |
 | [btree.c](https://github.com/tidwall/btree.c)                  | B-tree                                   | C          | MIT           |
 | [btree](https://github.com/tidwall/btree)                      | B-tree                                   | Go         | MIT           |
@@ -45,6 +46,7 @@ A curated list of packages, tools, and other software with zero third-party depe
 | [uuid](https://github.com/google/uuid)                         | Generate and inspect UUIDs               | Go         | BSD-3-Clause  |
 | [wazero](https://github.com/tetratelabs/wazero)                | WebAssembly runtime                      | Go         | Apache-2.0    |
 | [xid](https://github.com/rs/xid)                               | Globally unique ID generator             | Go         | MIT           |
+| [xxhash](https://github.com/cespare/xxhash)                    | 64-bit xxHash algorithm (XXH64)          | Go         | MIT           |
 | [yaegi](https://github.com/traefik/yaegi)                      | Go interpreter                           | Go         | Apache-2.0    |
 
 ## Frequently asked questions
