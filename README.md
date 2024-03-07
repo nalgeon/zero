@@ -19,6 +19,8 @@ A curated list of packages, tools, and other software with zero third-party depe
 | [env](https://github.com/caarlos0/env)                         | Parse environment variables into structs | Go         | MIT           |
 | [faker](https://github.com/jaswdr/faker)                       | Fake data generator                      | Go         | MIT           |
 | [gc](https://github.com/mkirchner/gc)                          | Mark-and-sweep garbage collector         | C          | MIT           |
+| [goawk](https://github.com/benhoyt/goawk)                      | Embeddable AWK interpreter               | Go         | MIT           |
+| [go-lua](https://github.com/Shopify/go-lua)                    | Lua VM                                   | Go         | MIT           |
 | [go-quartz](https://github.com/reugn/go-quartz)                | Scheduling library                       | Go         | MIT           |
 | [gofakeit](https://github.com/brianvoe/gofakeit)               | Fake data generator                      | Go         | MIT           |
 | [hamt](https://github.com/mkirchner/hamt)                      | Hash array-mapped trie                   | C          | MIT           |
