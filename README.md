@@ -20,13 +20,14 @@ A curated list of packages, tools, and other software with zero third-party depe
 | [faker](https://github.com/jaswdr/faker)                       | Fake data generator                      | Go         | MIT           |
 | [gc](https://github.com/mkirchner/gc)                          | Mark-and-sweep garbage collector         | C          | MIT           |
 | [goawk](https://github.com/benhoyt/goawk)                      | Embeddable AWK interpreter               | Go         | MIT           |
-| [go-lua](https://github.com/Shopify/go-lua)                    | Lua VM                                   | Go         | MIT           |
+| [go-lua](https://github.com/shopify/go-lua)                    | Lua VM                                   | Go         | MIT           |
 | [go-quartz](https://github.com/reugn/go-quartz)                | Scheduling library                       | Go         | MIT           |
 | [gofakeit](https://github.com/brianvoe/gofakeit)               | Fake data generator                      | Go         | MIT           |
 | [hamt](https://github.com/mkirchner/hamt)                      | Hash array-mapped trie                   | C          | MIT           |
 | [hashmap.c](https://github.com/tidwall/hashmap.c)              | Hash map                                 | C          | MIT           |
 | [htmz](https://github.com/Kalabasa/htmz)                       | HTML microframework                      | JavaScript | MIT           |
 | [httpbin](https://github.com/mccutchen/go-httpbin)             | HTTP request & response testing service  | Go         | MIT           |
+| [libs](https://github.com/mattiasgustavsson/libs)              | Helper libraries for writing games       | C          | Public domain |
 | [linenoise](https://github.com/antirez/linenoise)              | Line editing (readline alternative)      | C          | BSD-2-Clause  |
 | [microdot](https://github.com/miguelgrinberg/microdot)         | Web framework                            | Python     | MIT           |
 | [nanoserde](https://github.com/not-fl3/nanoserde)              | JSON/TOML/RON serialization              | Rust       | MIT           |
