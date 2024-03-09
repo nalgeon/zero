@@ -51,6 +51,7 @@ A curated list of packages, tools, and other software with zero third-party depe
 | [xid](https://github.com/rs/xid)                               | Globally unique ID generator             | Go         | MIT           |
 | [xxhash](https://github.com/cespare/xxhash)                    | 64-bit xxHash algorithm (XXH64)          | Go         | MIT           |
 | [yaegi](https://github.com/traefik/yaegi)                      | Go interpreter                           | Go         | Apache-2.0    |
+| [TiddlyWiki](https://github.com/Jermolene/TiddlyWiki5)         | Self-contained Wiki                      | JavaScript | BSD-3-Clause  |
 
 ## Frequently asked questions
 
