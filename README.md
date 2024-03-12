@@ -44,6 +44,7 @@ A curated list of packages, tools, and other software with zero third-party depe
 | [sqlpkg](https://github.com/nalgeon/sqlpkg-cli)                | SQLite package manager                   | Go         | MIT           |
 | [steganography](https://github.com/auyer/steganography)        | LSB steganography on images              | Go         | MIT           |
 | [tagger](https://github.com/jcubic/tagger)                     | Tag editor                               | JavaScript | MIT           |
+| [TiddlyWiki](https://github.com/Jermolene/TiddlyWiki5)         | Self-contained Wiki                      | JavaScript | BSD-3-Clause  |
 | [toml](https://github.com/BurntSushi/toml)                     | TOML serialization                       | Go         | MIT           |
 | [utf8.h](https://github.com/sheredom/utf8.h)                   | UTF-8 string functions                   | C          | Unlicense     |
 | [uuid](https://github.com/google/uuid)                         | Generate and inspect UUIDs               | Go         | BSD-3-Clause  |
@@ -51,7 +52,6 @@ A curated list of packages, tools, and other software with zero third-party depe
 | [xid](https://github.com/rs/xid)                               | Globally unique ID generator             | Go         | MIT           |
 | [xxhash](https://github.com/cespare/xxhash)                    | 64-bit xxHash algorithm (XXH64)          | Go         | MIT           |
 | [yaegi](https://github.com/traefik/yaegi)                      | Go interpreter                           | Go         | Apache-2.0    |
-| [TiddlyWiki](https://github.com/Jermolene/TiddlyWiki5)         | Self-contained Wiki                      | JavaScript | BSD-3-Clause  |
 
 ## Frequently asked questions
 
