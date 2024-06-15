@@ -10,6 +10,7 @@ A curated list of packages, tools, and other software with zero third-party depe
 | -------------------------------------------------------------- | ---------------------------------------- | ---------- | ------------- |
 | [asciigraph](https://github.com/guptarohit/asciigraph)         | ASCII line graphs in command line apps   | Go         | BSD-3-Clause  |
 | [autocomp.js](https://github.com/knadh/autocomp.js)            | Autocomplete library                     | JavaScript | MIT           |
+| [bottle](https://github.com/bottlepy/bottle)                   | Micro-framework for web-applications     | Python     | MIT           |
 | [btree.c](https://github.com/tidwall/btree.c)                  | B-tree                                   | C          | MIT           |
 | [btree](https://github.com/tidwall/btree)                      | B-tree                                   | Go         | MIT           |
 | [ccache](https://github.com/karlseguin/ccache)                 | LRU Cache for high concurrency           | Go         | MIT           |
