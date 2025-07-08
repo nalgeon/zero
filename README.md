@@ -15,7 +15,6 @@ A curated list of packages, tools, and other software with zero third-party depe
 | [btree](https://github.com/tidwall/btree)                      | B-tree                                   | Go         | MIT           |
 | [ccache](https://github.com/karlseguin/ccache)                 | LRU Cache for high concurrency           | Go         | MIT           |
 | [chi](https://github.com/go-chi/chi)                           | HTTP router                              | Go         | MIT           |
-| [codapi](https://github.com/nalgeon/codapi)                    | Code sandbox engine                      | Go         | Apache-2.0    |
 | [cors](https://github.com/rs/cors)                             | CORS request handler                     | Go         | MIT           |
 | [env](https://github.com/caarlos0/env)                         | Parse environment variables into structs | Go         | MIT           |
 | [faker](https://github.com/jaswdr/faker)                       | Fake data generator                      | Go         | MIT           |
