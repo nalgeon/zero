@@ -47,6 +47,7 @@ A curated list of packages, tools, and other software with zero third-party depe
 | [tagger](https://github.com/jcubic/tagger)                     | Tag editor                               | JavaScript | MIT           |
 | [TiddlyWiki](https://github.com/Jermolene/TiddlyWiki5)         | Self-contained Wiki                      | JavaScript | BSD-3-Clause  |
 | [toml](https://github.com/BurntSushi/toml)                     | TOML serialization                       | Go         | MIT           |
+| [tremolo](https://github.com/nggit/tremolo)                    | ASGI/HTTP server & micro web framework   | Python     | MIT           |
 | [utf8.h](https://github.com/sheredom/utf8.h)                   | UTF-8 string functions                   | C          | Unlicense     |
 | [uuid](https://github.com/google/uuid)                         | Generate and inspect UUIDs               | Go         | BSD-3-Clause  |
 | [wazero](https://github.com/tetratelabs/wazero)                | WebAssembly runtime                      | Go         | Apache-2.0    |
