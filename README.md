@@ -76,16 +76,3 @@ All of them.
 > I have a JavaScript project with 0 dependencies and only 2635 "devDependencies", would you accept it?
 
 Nope. "Dev" dependencies are also dependencies.
-
-## Contributing
-
-Make sure that the project you want to add meets the following criteria:
-
--   Zero dependencies (stdlib only)
--   Open source license
--   Hosted on GitHub (mirror is OK)
--   50+ stars
--   Stable working version
--   English documentation
-
-Then send a PR. That's it!
